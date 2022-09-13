@@ -1,4 +1,4 @@
-# Tambola-Game
+# Bingo-Game
 It is a game created in python language using the tkinter library.
 In the game the ticket containing 5 rows of 5 numbers are generated from the which the players try to 
 mark out the numbers calling out numbers turn by turn. 
